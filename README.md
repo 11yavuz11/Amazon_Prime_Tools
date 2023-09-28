@@ -15,7 +15,7 @@ To get started with the project, follow these steps:
    pip3 install -r requirements.txt
 
 
-## Used
+## Use
 
 
 1. Download the Chrome WebDriver compatible with your computer from this link and place it in the project's main directory.
