@@ -29,9 +29,10 @@ Note: There is currently a version for Mac, but if you are using Windows or Linu
 
 3. Add your products to your inventory, ensuring that SKUs (Stock Keeping Units) start with the following SKU prefixes:
 
-Amazon UK = UK
-Amazon US = US
+Amazon UK = UK,
+Amazon US = US,
 Amazon UAE = UAE
+
 For example, you can use SKU prefixes like "UK1" or "UK2."
 
 
