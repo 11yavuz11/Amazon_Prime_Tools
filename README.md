@@ -35,7 +35,6 @@ Amazon UAE = UAE
 
 For example, you can use SKU prefixes like "UK1" or "UK2."
 
-
 4. Add SKUs and ASINs to the inventory.xlsx file. Do not modify the headers.
 5. Extract the chromedriver file in the project directory.
 
@@ -48,4 +47,7 @@ python3 main.py
 8. Depending on your internet speed, the data scraping time may vary.
 
 9. Once completed, you will receive an output file and an error file. Use these files to update your inventory.
+
+
+Blog Link: https://medium.com/@yavuz.veli.11/amazon-prime-inventory-software-9d865987c6a
 
